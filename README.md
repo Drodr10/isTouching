@@ -1,2 +1,2 @@
-# isTouching
-My own version of an is touching Function
+# p5.play-boilerplate
+Boiler plate for p5.play
